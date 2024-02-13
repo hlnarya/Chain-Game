@@ -55,10 +55,11 @@ o	Then the chain is checked.
 •	Next round starts.
 
 
-![image](https://github.com/hlnarya/Chain-Game/assets/142156676/724c7d87-9c04-4536-b13e-6f50c3b4d529)
+![image](https://github.com/hlnarya/Chain-Game/assets/142156676/90a3127e-e2aa-441a-b117-3dd0623da776)
 
-![image](https://github.com/hlnarya/Chain-Game/assets/142156676/04c4991b-4376-44e6-bbcf-f3d1e1859e06)
+![image](https://github.com/hlnarya/Chain-Game/assets/142156676/b717315d-3478-4598-8bec-3d2a250acc84)
 
-![image](https://github.com/hlnarya/Chain-Game/assets/142156676/e2c6e52c-712d-45ba-a5eb-b44b4d945223)
+![image](https://github.com/hlnarya/Chain-Game/assets/142156676/64bb41bd-8e80-41eb-a6cc-88aa0a41408e)
+
 
 ![image](https://github.com/hlnarya/Chain-Game/assets/142156676/872880fb-6c48-4e96-82f9-75747d7711ac)
